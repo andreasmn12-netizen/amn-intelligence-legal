@@ -1,0 +1,8 @@
+title: Daily Pour
+description: AI-generated coffee content, published daily by Luna, our AI barista.
+theme: jekyll-theme-cayman
+
+permalink: /:basename
+
+exclude:
+  - README.md
